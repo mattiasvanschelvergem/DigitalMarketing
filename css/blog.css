@@ -37,7 +37,7 @@
  	text-decoration: none;
  }
 
- a: hover, a:focus, a.active{
+ a:hover, a:focus, a.active{
  	color: red;
  }
 
@@ -155,7 +155,7 @@
  }
 
 #img_me{
-	width: 60%
+	width: 60%;
 	float:right;
 	margin-left: 1rem;
 }
@@ -234,10 +234,17 @@ section .contact{
 
 div .main_left p{
 	margin-top: 3rem;
+	padding: 1em;
 }
 
-div .main_left li, a{
+div .main_left li{
 	text-align: center;
+	padding: 1em;
+}
+
+/** List actief zetten bij eerste artikel */
+#lijst ul {
+	list-style-type: disc;
 }
 
 
