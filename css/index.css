@@ -240,7 +240,10 @@ div .main_left li, a{
    text-align: center;
 }
 
-
+/** H4 naar links centereren */
+#downloadSeoulIMG {
+    text-align: left;
+}
 
 
 
