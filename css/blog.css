@@ -244,6 +244,26 @@ div .main_left li{
 }
 
 
+/** ------------- Google Analytics ----------------*/
+
+#googleAnalyticsSmall {
+	max-width: 100%;
+}
+
+#aantalBezoekers {
+	max-width: 80%;
+	padding: 1.5em;
+}
+
+#goals {
+	max-width: 60%;
+	padding: 1.5em;
+}
+
+#setupAantalDownloads {
+	max-width: 60%;
+	padding: 1.5em;
+}
 
 
 
