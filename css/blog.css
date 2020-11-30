@@ -25,6 +25,15 @@
 }
 
 
+#contentM p{
+	margin: 0;
+	padding: 0;
+}
+
+#contentM {
+	padding: 1rem;
+}
+
  *{
  	color: black;
  	box-sizing: border-box;
@@ -42,7 +51,7 @@
  	color: red;
  }
 
- h2,h3,h4{
+ h2,h3,h4, h5{
  	font-family: 'Source Serif Pro', Serif;
  	font-weight: normal;
  	color: #444;
@@ -52,6 +61,11 @@
  	font-family: 'Dancing Script', cursive;
  	font-weight: normal;
  	color: #444;
+ }
+
+ h5 {
+	 font-size: 2rem;
+	 padding: 1em;
  }
 
 
