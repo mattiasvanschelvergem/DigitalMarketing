@@ -181,6 +181,10 @@
 
 }
 
+.storytelling {
+	display: flex;
+}
+
 article{
 	background-color: #ccc;
 	margin-bottom: 5rem

@@ -137,9 +137,10 @@ div{
 }
 
 .main_left h4{
-    font-size: 2.5rem;
+    
     text-align: center;
     padding: 2rem 0;
+    font-size: 1.7rem;
 }
 
 img{
@@ -251,3 +252,14 @@ div .main_left li, a{
    
 }
 
+#story {
+    margin: 2rem 2rem;
+}
+
+#story p {
+    margin: 0;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+
+}
