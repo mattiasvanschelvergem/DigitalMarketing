@@ -185,6 +185,13 @@
 	display: flex;
 }
 
+
+.buffer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
 article{
 	background-color: #ccc;
 	margin-bottom: 5rem
